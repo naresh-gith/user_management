@@ -17,7 +17,7 @@ export default function CreateAccount() {
   });
   const [errors, setErrors] = useState({});
   const [formErrors, setFormErrors] = useState({});
-  const user = JSON.parse(localStorage.getItem('userData'));
+  const user = JSON.parse(localStorage.getItem('userData'));  
 
   useEffect(() => {
     if (params.id) {
