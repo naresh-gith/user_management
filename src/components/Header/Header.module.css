@@ -1,0 +1,26 @@
+.header {
+    background-color: dodgerblue;
+    color: #fff;
+    padding: 5px;
+  }
+  
+  .header .headerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .header .headerContainer ul {
+    list-style-type: none;
+  }
+  .header .headerContainer ul li {
+    display: inline;
+    margin-left: 2rem;
+  }
+  
+  .header .headerContainer ul li a {
+    text-decoration: none;
+    display: inline;
+    color: #fff;
+  }
+  

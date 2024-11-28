@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "c475",
+      "firstName": "Naresh",
+      "lastName": "Karra",
+      "mobileNumber": "9573342343",
+      "email": "nareshreddykarra98@gmail.com",
+      "password": "naresh123"
+    },
+    {
+      "id": "5f50",
+      "firstName": "Vamshi",
+      "lastName": "gaddam",
+      "mobileNumber": "2309890328",
+      "email": "vamshi123@gmail.com",
+      "password": "vamshi123"
+    },
+    {
+      "id": "6a07",
+      "firstName": "cjnvkjsdb",
+      "lastName": "nd snc s",
+      "mobileNumber": "36284763287",
+      "email": "jkcsjdckjs@gmail.com",
+      "password": "kjsdvhdscnds"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+/* Profile.module.css */
+
+.cardprofile {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.cardprofile fieldset {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.cardprofile legend {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #333;
+  padding: 0 10px;
+}
+
+.cardprofile ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cardprofile li {
+  margin: 10px 0;
+  font-size: 1em;
+  color: #555;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardprofile li b {
+  font-weight: bold;
+  color: #333;
+}
+
+.cardprofile li span {
+  color: #666;
+  font-weight: normal;
+}
